@@ -4,7 +4,6 @@
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-atul-sharma&theme=solarized)
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-atul-sharma&theme=solarized)
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-atul-sharma&theme=solarized)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-atul-sharma" width="420" height="165">
 
 ### 🏆 Github trophies
 
