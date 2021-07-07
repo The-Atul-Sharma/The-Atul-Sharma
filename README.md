@@ -1,7 +1,7 @@
 ### 📊 GitHub Stats:
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=the-atul-sharma&theme=radical&show_icons=true&count_private=true)
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-atul-sharma" width="800" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-atul-sharma" width="400" height="165">
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-atul-sharma&theme=solarized)
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-atul-sharma&theme=solarized)
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-atul-sharma&theme=solarized)
