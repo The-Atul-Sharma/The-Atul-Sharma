@@ -10,3 +10,16 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=the-atul-sharma&margin-w=15theme=dark)
 <br />
+
+###  👨‍💻Connect with me
+
+[<img align="left"  alt="f | Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="f | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="f | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]:   https://twitter.com/theatsharma
+[instagram]: https://www.instagram.com/_atsharma_/
+[linkedin]:  https://www.linkedin.com/in/theatsharma/
+
+<br />
+<br />
