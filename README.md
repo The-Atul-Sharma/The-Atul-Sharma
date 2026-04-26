@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://atul-sharma.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/The-Atul-Sharma">🐙 GitHub</a> •
-  <a href="https://www.linkedin.com/in/theatsharma">💼 LinkedIn</a> •
+  <a href="https://atul-sharma.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/The-Atul-Sharma" target="_blank">🐙 GitHub</a> •
+  <a href="https://www.linkedin.com/in/theatsharma" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:theatsharma@gmail.com">📧 Email</a>
 </p>
 
@@ -92,9 +92,9 @@ I build high-performance web applications with a strong focus on **scalability, 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://atul-sharma.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/The-Atul-Sharma">GitHub</a> •
-  <a href="https://www.linkedin.com/in/theatsharma">LinkedIn</a>
+  <a href="https://atul-sharma.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://github.com/The-Atul-Sharma" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/theatsharma" target="_blank">LinkedIn</a>
 </p>
 
 ---
